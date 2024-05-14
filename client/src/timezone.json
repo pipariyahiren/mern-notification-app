@@ -1,0 +1,34 @@
+[
+  {
+    "value": "America/New_York",
+    "label": "America/New_York"
+  },
+  {
+    "value": "America/Los_Angeles",
+    "label": "America/Los_Angeles"
+  },
+  {
+    "value": "Asia/Tokyo",
+    "label": "Asia/Tokyo"
+  },
+  {
+    "value": "Europe/London",
+    "label": "Europe/London"
+  },
+  {
+    "value": "Europe/Berlin",
+    "label": "Europe/Berlin"
+  },
+  {
+    "value": "Europe/Moscow",
+    "label": "Europe/Moscow"
+  },
+  {
+    "value": "Europe/Istanbul",
+    "label": "Europe/Istanbul"
+  },
+  {
+    "value": "Africa/Algiers",
+    "label": "Africa/Algiers"
+  }
+]
