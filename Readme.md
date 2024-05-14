@@ -17,7 +17,7 @@ Before running the Docker containers, ensure that the following ports are open a
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/pipariyahiren/mern-notification-app.git
     ```
 
 2. Set up environment variables:
